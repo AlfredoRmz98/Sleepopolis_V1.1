@@ -1,0 +1,67 @@
+header {
+    background-color: #354683;
+    display: flex;
+
+}
+
+.ulHorizontalHeader{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.logoHeader{
+    margin-left: -5%;
+    margin-right: 15%;
+}
+div{
+    display: flexbox;
+}
+li {
+    list-style-type: none;
+    
+    padding: 0%;
+    
+}
+a {
+    text-transform: none;
+    font-size: 20px;
+    text-decoration: none;
+    flex: auto;
+    color: #ffffff;
+}
+.cinta {
+    background-color:#354683; 
+    display: flex;
+}
+.reviewDesigner{
+    text-align: left;
+    margin-right: 55%;
+}
+.accessoriesDesigner{
+    text-align: center;
+    margin-right: 55%;
+    padding: 0%;
+}
+.calculatorsDesigner{
+    text-align: right;
+    margin-right: 55%;
+    padding: 0%;
+}
+a.iconUser{    
+    text-align: end;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 770px;
+    margin-bottom: 20px;
+    display: flex;
+    padding: 0px;
+}
+.bttnCalculatorSleep{
+    background-color: #354683;
+    justify-content: center;
+    font-size: 25px;
+    align-items: center;
+    color: #7FDBFF;
+    padding: 25px;
+    border-radius: 10%;
+}
